@@ -26,3 +26,15 @@ Producto eliminado del front
 ![Producto eliminado](https://user-images.githubusercontent.com/126131443/226214964-5a6c7639-23b7-4568-b61d-3ece819fa2b3.png)
 
 
+Codigo Front 
+
+Codigo archivo proxy
+
+![codigo archivo proxy](https://user-images.githubusercontent.com/126131443/227812258-600568e2-4d74-4eaf-83d6-071f1fb9331b.png)
+
+Codigo archivo angular.json
+![codigo agregado al archivo angular json](https://user-images.githubusercontent.com/126131443/227812271-cf7fe650-9ce0-4b28-8f0e-04fd50254532.png)
+![Captura de pantalla 2023-03-19 164118](https://user-images.githubusercontent.com/126131443/227812278-f9f2df59-e0af-4700-8257-43a42f9d9b7b.png)
+
+
+
