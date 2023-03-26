@@ -34,7 +34,6 @@ Codigo archivo proxy
 
 Codigo archivo angular.json
 ![codigo agregado al archivo angular json](https://user-images.githubusercontent.com/126131443/227812271-cf7fe650-9ce0-4b28-8f0e-04fd50254532.png)
-![Captura de pantalla 2023-03-19 164118](https://user-images.githubusercontent.com/126131443/227812278-f9f2df59-e0af-4700-8257-43a42f9d9b7b.png)
 
 
 
